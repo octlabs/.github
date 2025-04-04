@@ -1,15 +1,15 @@
-# October Labs GmbH
+<img src="https://www.october-labs.de/assets/img/logo_written.svg" width="600" alt="October Labs GmbH">
+
+# [://oct.de](https://www.october-labs.de)
 
 **Web. App. APIs. DevOps. ISP. Seit 1997.**
 
-[october-labs.de](https://www.october-labs.de)
-
 Wir bauen digitale Lösungen für den Mittelstand – schnell, schlank und nachhaltig.\
 Seit über 25 Jahren entwickeln wir Software, Webanwendungen und Schnittstellen.\
-Unsere Büro ist im Herzen von Mannheim, direkt in den Quadraten. 
+Unsere Büro ist im Herzen von Mannheim, direkt in den Quadraten.
 
 ## Unsere Kernbereiche
-- **Backend-Entwicklung:** PHP (Laravel, Symfony), Node, REST-APIs, OpenAPI 3.1
+- **Backend-Entwicklung:** PHP (Laravel, Symfony, TYPO3), Node, REST-APIs, OpenAPI 3.1
 - **Frontend-Technologien:** PWA, HTML & SCSS, TypeScript
 - **DevOps & Infrastruktur:** Podman, GitLab CI/CD, SELinux, automatisierte Deployments
 
@@ -24,6 +24,7 @@ _Wir freuen uns darauf, dich kennenzulernen!_
 <a href="https://www.php.net" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"></a>
 &nbsp;<a href="https://laravel.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"  alt="laravel" width="50" height="50"></a>
 &nbsp;<a href="https://symfony.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="symfony" width="50" height="50"></a>
+&nbsp;<a href="https://typo3.org" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typo3/typo3-icon.svg" alt="typo3" width="50" height="50"></a>
 &nbsp;<a href="https://www.perl.org" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" alt="perl" width="50" height="50"></a>
 &nbsp;<a href="https://www.w3.org/html" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="50" height="50"></a>
 &nbsp;<a href="https://developer.mozilla.org/css" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="50" height="50"></a>
