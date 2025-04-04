@@ -1,9 +1,8 @@
-<img src="https://www.october-labs.de/assets/img/logo_written.svg" width="600" alt="October Labs GmbH">
+<a href="https://www.october-labs.de"><img src="https://www.october-labs.de/assets/img/logo_written.svg" width="600" alt="October Labs GmbH"></a>
 
 __Web. App. APIs. DevOps. ISP. Seit 1997.__
 
 # [://oct.de](https://www.october-labs.de)
-
 
 Wir bauen digitale Lösungen für den Mittelstand – schnell, schlank und nachhaltig.\
 Seit über 25 Jahren entwickeln wir Software, Webanwendungen und Schnittstellen.\
@@ -45,5 +44,3 @@ _Wir freuen uns darauf, dich kennenzulernen!_
 &nbsp;<a href="https://www.linux.org" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="50" height="50"></a>
 &nbsp;<a href="https://podman.io" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/podmanio/podmanio-icon.svg" alt="podman" width="50" height="50"></a>
 &nbsp;<a href="https://grafana.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="50" height="50"></a>
-
-
