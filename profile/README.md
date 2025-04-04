@@ -1,8 +1,9 @@
 <img src="https://www.october-labs.de/assets/img/logo_written.svg" width="600" alt="October Labs GmbH">
 
+__Web. App. APIs. DevOps. ISP. Seit 1997.__
+
 # [://oct.de](https://www.october-labs.de)
 
-**Web. App. APIs. DevOps. ISP. Seit 1997.**
 
 Wir bauen digitale Lösungen für den Mittelstand – schnell, schlank und nachhaltig.\
 Seit über 25 Jahren entwickeln wir Software, Webanwendungen und Schnittstellen.\
